@@ -11,7 +11,7 @@
     },
     "version": "1.0.1",
     "engines": {
-        "vscode": "^0.10.x"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Snippets"
