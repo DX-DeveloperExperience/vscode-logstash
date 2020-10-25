@@ -178,7 +178,7 @@
     "prefix": "lf-grok",
     "body": [
       "grok {",
-      "\tmatch => { \"${field}\" => \"${pattern\"}",
+      "\tmatch => { \"${field}\" => \"${pattern}\" }",
       "}"
     ],
     "description": "Logstash grok Filter"
